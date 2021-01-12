@@ -1,0 +1,3 @@
+# Data-Encryption-Standard
+Data Encryption Standard (DES) uses the two basic techniques of cryptography - confusion and diffusion. At the simplest level, diffusion is achieved through numerous permutations and confusion is achieved through the XOR operation. Different Hyper Parameters are used in the code to observe Avalanche effect and for further cryptographic analysis.
+The basic process in enciphering a 64-bit data block and a 56-bit key using the DES consists of: 1. An initial permutation (IP) - 16 rounds of a complex key dependent calculation f - A final permutation, being the inverse of IP.
